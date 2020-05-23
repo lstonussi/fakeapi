@@ -20,5 +20,8 @@
       "no_usuario": "DeeDee"
       "no_senha": "741"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
