@@ -35,7 +35,7 @@
     {
       "co_produto": 1,
       "no_produto": "Produto 1",
-      "descricao": "descricao"
+      "descricao": "descricao",
       "qt_preco": 4,
       "image":""
     }
