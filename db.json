@@ -31,6 +31,13 @@
       "no_avatar":"https://s2.glbimg.com/9h8aOcD3ssEqsG0idF0s3I3tUJ8=/i.glbimg.com/og/ig/infoglobo1/f/original/2019/04/17/82258598_brazilian_president_jair_bolsonaro_is_drenched_with_rain_during_a_downpour_as_he_attends_a.jpg"
     }
   ],
+  "produtos": [
+    {
+      "co_produto": 1,
+      "no_produto": "Produto 1",
+      "qt_preco": 4
+    }
+  ]
   "profile": {
     "name": "typicode"
   }
