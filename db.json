@@ -3,17 +3,20 @@
     {
       "co_usuario": 1,
       "no_usuario": "lucas",
-      "no_senha": "1234"
+      "no_senha": "1234",
+      "no_avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
     },
     {
       "co_usuario": 2,
       "no_usuario": "Joey",
-      "no_senha": "456"
+      "no_senha": "456",
+      "no_avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
     },
       {
       "co_usuario": 3,
       "no_usuario": "Johnny",
-      "no_senha": "789"
+      "no_senha": "789",
+      "no_avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"  
     },
       {
       "co_usuario": 4,
