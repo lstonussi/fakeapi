@@ -21,7 +21,8 @@
       {
       "co_usuario": 4,
       "no_usuario": "DeeDee",
-      "no_senha": "741"
+      "no_senha": "741",
+      "no_avatar":"" 
     }
   ],
   "profile": {
