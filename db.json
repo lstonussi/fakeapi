@@ -45,6 +45,11 @@
       "codigo": 1,
       "nome": "Usuários",
       "imagem":"https://www.beijaflorerp.com.br/Content/img/controleUser/controle-de-usuarios.png"
+    },
+    {
+      "codigo": 2,
+      "nome": "Produtos",
+      "imagem":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmL62i1r20txk1QPjTCh6_-k0TvQ0spAhrTVJns1LDelUk6dA5&usqp=CAU"
     }
   ],
   "profile": {
