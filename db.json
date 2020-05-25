@@ -1,43 +1,51 @@
 {
   "usuarios": [
     {
-      "co_usuario": 1,
-      "no_usuario": "lucas",
-      "no_senha": "1234",
-      "no_avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
+      "codigo": 1,
+      "nome": "lucas",
+      "senha": "1234",
+      "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
     },
     {
-      "co_usuario": 2,
-      "no_usuario": "Joey",
-      "no_senha": "456",
-      "no_avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
+      "codigo": 2,
+      "nome": "Joey",
+      "senha": "456",
+      "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
     },
       {
-      "co_usuario": 3,
-      "no_usuario": "Johnny",
-      "no_senha": "789",
-      "no_avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"  
+      "codigo": 3,
+      "nome": "Johnny",
+      "senha": "789",
+      "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"  
     },
       {
-      "co_usuario": 4,
-      "no_usuario": "DeeDee",
-      "no_senha": "741",
-      "no_avatar":"" 
+      "codigo": 4,
+      "nome": "DeeDee",
+      "senha": "741",
+      "avatar":"" 
     },
     {
-      "co_usuario": 5,
-      "no_usuario": "Marky",
-      "no_senha": "4234",
-      "no_avatar":"https://s2.glbimg.com/9h8aOcD3ssEqsG0idF0s3I3tUJ8=/i.glbimg.com/og/ig/infoglobo1/f/original/2019/04/17/82258598_brazilian_president_jair_bolsonaro_is_drenched_with_rain_during_a_downpour_as_he_attends_a.jpg"
+      "codigo": 5,
+      "nome": "Marky",
+      "senha": "4234",
+      "avatar":"https://s2.glbimg.com/9h8aOcD3ssEqsG0idF0s3I3tUJ8=/i.glbimg.com/og/ig/infoglobo1/f/original/2019/04/17/82258598_brazilian_president_jair_bolsonaro_is_drenched_with_rain_during_a_downpour_as_he_attends_a.jpg"
     }
   ],
   "produtos": [
     {
-      "co_produto": 1,
-      "no_produto": "Produto 1",
+      "codigo": 1,
+      "nome": "Produto 1",
       "descricao": "descricao",
-      "qt_preco": 4,
-      "image":""
+      "preco": 4,
+      "imagem":""
+    }
+  ],
+  "categoria": [
+    {
+      "codigo": 1,
+      "nome": "Usuário",
+      "descricao": "descricao",
+      "image":"https://www.beijaflorerp.com.br/Content/img/controleUser/controle-de-usuarios.png"
     }
   ],
   "profile": {
