@@ -50,6 +50,11 @@
       "codigo": 2,
       "nome": "Produtos",
       "imagem":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmL62i1r20txk1QPjTCh6_-k0TvQ0spAhrTVJns1LDelUk6dA5&usqp=CAU"
+    },
+        {
+      "codigo": 3,
+      "nome": "Pedidos",
+      "imagem":"https://2.bp.blogspot.com/-01-TGLQ52Jw/VeUAfiPpndI/AAAAAAAABrU/Q2Mk4waW8NU/s1600/pedidos.png"
     }
   ],
   "profile": {
