@@ -43,9 +43,8 @@
   "categoria": [
     {
       "codigo": 1,
-      "nome": "Usuário",
-      "descricao": "descricao",
-      "image":"https://www.beijaflorerp.com.br/Content/img/controleUser/controle-de-usuarios.png"
+      "nome": "Usuários",
+      "imagem":"https://www.beijaflorerp.com.br/Content/img/controleUser/controle-de-usuarios.png"
     }
   ],
   "profile": {
