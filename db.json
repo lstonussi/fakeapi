@@ -35,25 +35,39 @@
     {
       "codigo": 1,
       "nome": "Produto 1",
-      "descricao": "descricao",
-      "preco": 4,
+      "descricao": "descricao do Produto 1",
+      "preco": 1.23,
       "imagem":""
-    }
+    },
+    {
+      "codigo": 2,
+      "nome": "Produto 2",
+      "descricao": "descricao do Produto 2",
+      "preco": 4.6,
+      "imagem":""
+    },
+    {
+      "codigo": 3,
+      "nome": "Produto 3",
+      "descricao": "descricao do Produto 3",
+      "preco": 6.99,
+      "imagem":""
+    }        
   ],
-  "categoria": [
+  "niveis": [
     {
       "codigo": 1,
-      "nome": "Usuários",
+      "nome": "Camisetas",
       "imagem":"https://www.beijaflorerp.com.br/Content/img/controleUser/controle-de-usuarios.png"
     },
     {
       "codigo": 2,
-      "nome": "Produtos",
+      "nome": "Tênis",
       "imagem":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmL62i1r20txk1QPjTCh6_-k0TvQ0spAhrTVJns1LDelUk6dA5&usqp=CAU"
     },
         {
       "codigo": 3,
-      "nome": "Pedidos",
+      "nome": "Calça",
       "imagem":"https://2.bp.blogspot.com/-01-TGLQ52Jw/VeUAfiPpndI/AAAAAAAABrU/Q2Mk4waW8NU/s1600/pedidos.png"
     }
   ],
