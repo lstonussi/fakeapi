@@ -4,31 +4,31 @@
       "codigo": 1,
       "nome": "lucas",
       "senha": "1234",
-      "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
     },
     {
       "codigo": 2,
       "nome": "Joey",
       "senha": "456",
-      "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
     },
-      {
+    {
       "codigo": 3,
       "nome": "Johnny",
       "senha": "789",
-      "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"  
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
     },
-      {
+    {
       "codigo": 4,
       "nome": "DeeDee",
       "senha": "741",
-      "avatar":"" 
+      "avatar": ""
     },
     {
       "codigo": 5,
       "nome": "Marky",
       "senha": "4234",
-      "avatar":"https://s2.glbimg.com/9h8aOcD3ssEqsG0idF0s3I3tUJ8=/i.glbimg.com/og/ig/infoglobo1/f/original/2019/04/17/82258598_brazilian_president_jair_bolsonaro_is_drenched_with_rain_during_a_downpour_as_he_attends_a.jpg"
+      "avatar": "https://s2.glbimg.com/9h8aOcD3ssEqsG0idF0s3I3tUJ8=/i.glbimg.com/og/ig/infoglobo1/f/original/2019/04/17/82258598_brazilian_president_jair_bolsonaro_is_drenched_with_rain_during_a_downpour_as_he_attends_a.jpg"
     }
   ],
   "produtos": [
@@ -37,73 +37,78 @@
       "nome": "Produto 1",
       "descricao": "descricao do Produto 1",
       "preco": 1.23,
-      "imagem":""
+      "imagem": ""
     },
     {
       "codigo": 2,
       "nome": "Produto 2",
       "descricao": "descricao do Produto 2",
       "preco": 4.6,
-      "imagem":""
+      "imagem": ""
     },
     {
       "codigo": 3,
       "nome": "Produto 3",
       "descricao": "descricao do Produto 3",
       "preco": 6.99,
-      "imagem":""
-    }        
+      "imagem": ""
+    }
   ],
   "niveis": [
     {
       "codigo": 1,
       "nome": "Camisetas",
-      "imagem":"https://www.beijaflorerp.com.br/Content/img/controleUser/controle-de-usuarios.png"
+      "imagem": "https://www.beijaflorerp.com.br/Content/img/controleUser/controle-de-usuarios.png"
     },
     {
       "codigo": 2,
       "nome": "Tênis",
-      "imagem":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmL62i1r20txk1QPjTCh6_-k0TvQ0spAhrTVJns1LDelUk6dA5&usqp=CAU"
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmL62i1r20txk1QPjTCh6_-k0TvQ0spAhrTVJns1LDelUk6dA5&usqp=CAU"
     },
-        {
+    {
       "codigo": 3,
       "nome": "Calça",
-      "imagem":"https://2.bp.blogspot.com/-01-TGLQ52Jw/VeUAfiPpndI/AAAAAAAABrU/Q2Mk4waW8NU/s1600/pedidos.png"
+      "imagem": "https://2.bp.blogspot.com/-01-TGLQ52Jw/VeUAfiPpndI/AAAAAAAABrU/Q2Mk4waW8NU/s1600/pedidos.png"
     }
   ],
-  "pedidos":[
+  "pedidos": [
     {
-      "codigo":1,
-      "codigoExterno":"12346-A",
+      "codigo": 1,
+      "codigoExterno": "12346-A",
       "cliente": 1,
       "valorBruto": 25.46,
       "valorLiquido": 25.46,
-      "itemPedido":[
-      {
-        "codigo":1,
-        "codigoPedido":1,
-        "codigoProduto":2,
-        "quantidade": 5,
-      }
-    },  
-      {
-        "codigo":2,
-        "codigoExterno":"789771-D",
-        "cliente": 2,
-        "valorBruto": 6.99,
-        "valorLiquido": 6.99,
-        "itemPedido":[
-           {
-        "codigo": 2,
-        "codigoPedido": 1,
-        "codigoProduto": 3,
-        "quantidade": 1,
-      } 
-  ]  ,
-
-    },  
+      "itemPedido": [
+        {
+          "codigo": 1,
+          "codigoPedido": 1,
+          "codigoProduto": 2,
+          "quantidade": 5
+        },
+        {
+          "codigo": 2,
+          "codigoPedido": 1,
+          "codigoProduto": 1,
+          "quantidade": 2
+        }
+      ]
+    },
+    {
+      "codigo": 2,
+      "codigoExterno": "56422-D",
+      "cliente": 2,
+      "valorBruto": 6.99,
+      "valorLiquido": 6.99,
+      "itemPedido": [
+        {
+          "codigo": 1,
+          "codigoPedido": 2,
+          "codigoProduto": 3,
+          "quantidade": 1
+        }
+      ]
+    }
   ],
-
   "profile": {
     "name": "typicode"
   }
