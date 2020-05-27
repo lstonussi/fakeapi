@@ -85,7 +85,6 @@
         "codigoProduto":2,
         "quantidade": 5,
       }
-    ]
     },  
       {
         "codigo":2,
@@ -100,7 +99,7 @@
         "codigoProduto": 3,
         "quantidade": 1,
       } 
-  ],
+  ]  ,
 
     },  
   ],
