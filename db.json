@@ -71,6 +71,40 @@
       "imagem":"https://2.bp.blogspot.com/-01-TGLQ52Jw/VeUAfiPpndI/AAAAAAAABrU/Q2Mk4waW8NU/s1600/pedidos.png"
     }
   ],
+  "pedidos":[
+    {
+      "codigo":1,
+      "codigoExterno":"12346-A",
+      "cliente": 1,
+      "valorBruto": 25.46,
+      "valorLiquido": 25.46,
+      "itemPedido":[
+      {
+        "codigo":1,
+        "codigoPedido":1,
+        "codigoProduto":2,
+        "quantidade": 5,
+      }
+    ]
+    },  
+      {
+        "codigo":2,
+        "codigoExterno":"789771-D",
+        "cliente": 2,
+        "valorBruto": 6.99,
+        "valorLiquido": 6.99,
+        "itemPedido":[
+           {
+        "codigo": 2,
+        "codigoPedido": 1,
+        "codigoProduto": 3,
+        "quantidade": 1,
+      } 
+  ],
+
+    },  
+  ],
+
   "profile": {
     "name": "typicode"
   }
