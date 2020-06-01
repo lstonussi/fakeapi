@@ -2,7 +2,7 @@
   "usuarios": [
     {
       "codigo": 1,
-      "nome": "lucas",
+      "nome": "Lucas",
       "senha": "1234",
       "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
     },
