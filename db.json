@@ -40,33 +40,33 @@
   "clientes": [
     {
       "codigo": 1,
-      "nome": "Lucas",
+      "nome": "Goku",
       "senha": "1234",
-      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
+      "avatar": "https://randomuser.me/api/portraits/men/32.jpg"
     },
     {
       "codigo": 2,
       "nome": "João",
       "senha": "456",
-      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
+      "avatar": "https://randomuser.me/api/portraits/men/46.jpg"
     },
     {
       "codigo": 3,
       "nome": "Jonas",
       "senha": "789",
-      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
+      "avatar": "https://pbs.twimg.com/profile_images/953658232517652480/Xp0NB-TL.jpg"
     },
     {
       "codigo": 4,
       "nome": "Teste",
       "senha": "741",
-      "avatar": ""
+      "avatar": "https://images.unsplash.com/photo-1511485977113-f34c92461ad9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&ixid=eyJhcHBfaWQiOjE3Nzg0fQ"
     },
     {
       "codigo": 5,
       "nome": "Paulo",
       "senha": "4234",
-      "avatar": "https://s2.glbimg.com/9h8aOcD3ssEqsG0idF0s3I3tUJ8=/i.glbimg.com/og/ig/infoglobo1/f/original/2019/04/17/82258598_brazilian_president_jair_bolsonaro_is_drenched_with_rain_during_a_downpour_as_he_attends_a.jpg"
+      "avatar": "https://randomuser.me/api/portraits/men/58.jpg"
     }
   ],
   "produtos": [
