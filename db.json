@@ -42,40 +42,40 @@
       "codigo": 1,
       "nome": "Goku",
       "senha": "1234",
-      "lat": "-23.089370",
-      "long":"-47.703742",
+      "lat": -23.089370,
+      "long":-47.703742,
       "avatar": "https://i.pinimg.com/originals/0b/b3/36/0bb3363be26836fdc7ebfa1c9b8d94d6.jpg"
     },
     {
       "codigo": 2,
       "nome": "João",
       "senha": "456",
-      "lat": "-23.056618", 
-      "long":"-47.832433",
+      "lat": -23.056618, 
+      "long":-47.832433,
       "avatar": "https://randomuser.me/api/portraits/men/46.jpg"
     },
     {
       "codigo": 3,
       "nome": "Jonas",
       "senha": "789",
-      "lat": "-23.089370",
-      "long":"-47.703742",
+      "lat": -23.089370,
+      "long":-47.703742,
       "avatar": "https://pbs.twimg.com/profile_images/953658232517652480/Xp0NB-TL.jpg"
     },
     {
       "codigo": 4,
       "nome": "Teste",
       "senha": "741",
-      "lat": "-23.089370",
-      "long":"-47.703742",
+      "lat": -23.089370,
+      "long":-47.703742,
       "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMjSHWDsL2l6ycnm5qef5chIj7FI3E9BaxEQ&usqp=CAU"
     },
     {
       "codigo": 5,
       "nome": "Paulo",
       "senha": "4234",
-      "lat": "-23.089370",
-      "long":"-47.703742",
+      "lat": -23.089370,
+      "long":-47.703742,
       "avatar": "https://randomuser.me/api/portraits/men/58.jpg"
     }
   ],
