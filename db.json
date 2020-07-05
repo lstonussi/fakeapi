@@ -147,6 +147,58 @@
       ]
     }
   ],
+  "pedidos2":{
+    "codigo": 1,
+    "codigoExterno": "12346-A",
+    "cliente": 1,
+    "valorBruto": 25.46,
+    "valorLiquido": 25.46,
+    "itemPedido": [
+      {
+        "produto":   {
+    "codigo": 1,
+    "nome": "Produto 1",
+    "descricao": "descricao do Produto 1",
+    "preco": 1.23,
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuJ7Z4TJ4x50uPtQlOIkZpXqswU8gsDl0x9bwX7sXJa_T4M9UProjb3X2Bxx2xggdoZu6omgue&usqp=CAc"
+  },
+        "codigoPedido": 1,
+        "quantidade": 5
+      },
+      {
+        "codigo":   {
+    "codigo": 2,
+    "nome": "Produto 2",
+    "descricao": "descricao do Produto 2",
+    "preco": 4.6,
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBYFtQNtwe2H2k2_h4eYF54VIJbRfU0CELpPad3XXNjMBjccNOb7BT1aA6VurpyZ_bbuu6Kzce&usqp=CAc"
+  },
+        "codigoPedido": 1,
+        "quantidade": 2
+      }
+    ]
+  },
+  {
+    "codigo": 2,
+    "codigoExterno": "56422-D",
+    "cliente": 2,
+    "valorBruto": 6.99,
+    "valorLiquido": 6.99,
+    "itemPedido": [
+      {
+        "produto":   {
+    "codigo": 4,
+    "nome": "Produto 4",
+    "descricao": "descricao do Produto 4",
+    "preco": 10.99,
+    "imagem": ""
+  },
+        "codigoPedido": 2,
+        "quantidade": 1
+      }
+    ]
+  }
+],
   "profile": {
     "name": "typicode"
   }
