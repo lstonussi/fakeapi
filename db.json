@@ -113,7 +113,14 @@
     {
       "codigo": 1,
       "codigoExterno": "12346-A",
-      "cliente": 1,
+      "cliente":     {
+      "codigo": 1,
+      "nome": "Goku",
+      "senha": "1234",
+      "lat": -23.056618, 
+      "long":-47.832433,
+      "avatar": "https://i.pinimg.com/originals/0b/b3/36/0bb3363be26836fdc7ebfa1c9b8d94d6.jpg"
+    },
       "valorBruto": 25.46,
       "valorLiquido": 25.46,
       "itemPedido": [
@@ -144,7 +151,14 @@
     {
       "codigo": 2,
       "codigoExterno": "56422-D",
-      "cliente": 2,
+      "cliente":     {
+      "codigo": 2,
+      "nome": "João",
+      "senha": "456",
+      "lat": -23.603849,
+      "long":-46.642728,
+      "avatar": "https://randomuser.me/api/portraits/men/46.jpg"
+    },
       "valorBruto": 6.99,
       "valorLiquido": 6.99,
       "itemPedido": [
