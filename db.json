@@ -136,7 +136,7 @@
           "quantidade": 5
         },
         {
-          "codigo": {
+          "produto": {
             "codigo": 2,
             "nome": "Produto 2",
             "descricao": "descricao do Produto 2",
