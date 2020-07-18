@@ -86,7 +86,7 @@
           "vl_unit": 25.46
         },
         {
-          "id": 1,
+          "id": 2,
           "produto_id": 2,
           "pedido_id": 1,
           "quantidade": 1,
@@ -101,7 +101,7 @@
       "valor": 20,
       "item_pedido": [
         {
-          "id": 1,
+          "id": 3,
           "produto_id": 3,
           "pedido_id": 2,
           "quantidade": 2,
